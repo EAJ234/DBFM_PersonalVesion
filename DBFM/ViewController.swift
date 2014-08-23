@@ -3,7 +3,7 @@
 //  DBFM
 //
 //  Created by Edward on 14-7-25.
-//  Copyright (c) 2014年 Edward. All rights reserved.
+//  Copyright (c) 2014 Edward. All rights reserved.
 //
 
 import UIKit
